@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="84px" height="84px"
+	 viewBox="0 0 84 84" enable-background="new 0 0 84 84" xml:space="preserve">
+<title>Enterprise mobile apps</title>
+<desc>Created with Sketch.</desc>
+<g id="Main-page-new-style-icons" sketch:type="MSPage">
+	<g id="icons" transform="translate(-353.000000, -452.000000)" sketch:type="MSArtboardGroup">
+		<g id="Enterprise-mobile-apps-" transform="translate(354.000000, 453.000000)" sketch:type="MSLayerGroup">
+			<g id="Rectangle-290">
+				<g sketch:type="MSShapeGroup">
+					<path id="path-1" fill="#EEEEEE" stroke="#FFFFFF" stroke-width="4" d="M40,0h2c22.092,0,40,17.909,40,40v2
+						c0,22.092-17.908,40-40,40h-2C17.909,82,0,64.092,0,42v-2C0,17.909,17.909,0,40,0z"/>
+				</g>
+				<g>
+					<path id="path-1_1_" fill="none" stroke="#F2EDED" d="M40,0h2c22.092,0,40,17.909,40,40v2c0,22.092-17.908,40-40,40h-2
+						C17.909,82,0,64.092,0,42v-2C0,17.909,17.909,0,40,0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<path fill="#005EB8" d="M41.699,63.679c-11.588-0.378-20.667-9.765-20.667-21.37c0-1.457,0.149-2.916,0.441-4.337l2.013,0.413
+					c-0.266,1.286-0.4,2.607-0.4,3.924c0,10.487,8.206,18.974,18.679,19.317L41.699,63.679z"/>
+			</g>
+			<g>
+				<polygon fill="#005EB8" points="26.261,40.779 24.608,32.436 18.209,38.038 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path fill="#005EB8" d="M49.913,62.339l-0.721-1.924c7.502-2.814,12.543-10.09,12.543-18.107c0-3.136-0.769-6.249-2.221-9.004
+					l1.816-0.959c1.609,3.05,2.46,6.495,2.46,9.963C63.791,51.177,58.215,59.227,49.913,62.339z"/>
+			</g>
+			<g>
+				<polygon fill="#005EB8" points="49.746,56.797 43.558,62.632 51.705,65.072 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<path fill="#005EB8" d="M26.249,31.713l-1.718-1.127c3.971-6.047,10.655-9.659,17.882-9.659c5.249,0,10.297,1.922,14.211,5.41
+					l-1.365,1.534c-3.539-3.153-8.102-4.89-12.846-4.89C35.882,22.982,29.839,26.247,26.249,31.713z"/>
+			</g>
+			<g>
+				<polygon fill="#005EB8" points="51.799,29.083 59.853,31.815 58.191,23.475 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="#005EB8" d="M42,39.063c3.147,0,5.71-2.561,5.71-5.709s-2.563-5.709-5.71-5.709c-3.148,0-5.71,2.561-5.71,5.709
+		C36.291,36.502,38.852,39.063,42,39.063z"/>
+	<path fill="#005EB8" d="M40.562,39.763l0.941,1.707l-2.202,3.557l2.774,7.621l2.618-7.621l-2.12-3.548l0.981-1.717
+		c7.476,0.777,9.187,7.232,9.249,12.742c-2.97,1.66-7.017,2.682-10.804,2.682c-3.786,0-7.583-0.771-10.804-2.68
+		C31.283,46.684,33.817,40.526,40.562,39.763z"/>
+</g>
+</svg>
